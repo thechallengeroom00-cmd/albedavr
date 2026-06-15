@@ -1,0 +1,5 @@
+node_modules
+.next
+.env
+.DS_Store
+public/ron-vr/kickoff-2025.mp4
